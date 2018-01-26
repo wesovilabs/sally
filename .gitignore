@@ -1,0 +1,7 @@
+vendor
+api-gw-generic-ether.iml
+api-gw-generic.iml
+krakend.iml
+glide.lock
+.gopath
+build
